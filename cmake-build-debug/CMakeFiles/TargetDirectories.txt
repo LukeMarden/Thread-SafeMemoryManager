@@ -1,0 +1,3 @@
+/Volumes/128/Y2/5013A Architectures And Operating Systems/CW2/Thread-SafeMemoryManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/128/Y2/5013A Architectures And Operating Systems/CW2/Thread-SafeMemoryManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/128/Y2/5013A Architectures And Operating Systems/CW2/Thread-SafeMemoryManager/cmake-build-debug/CMakeFiles/Thread_SafeMemoryManager.dir

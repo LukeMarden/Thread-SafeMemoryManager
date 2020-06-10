@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/128/Y2/5013A Architectures And Operating Systems/CW2/Thread-SafeMemoryManager/main.c
+stdlib.h
+-
+
+/Volumes/128/Y2/5013A Architectures And Operating Systems/CW2/Thread-SafeMemoryManager/part1.c
+part1.h
+/Volumes/128/Y2/5013A Architectures And Operating Systems/CW2/Thread-SafeMemoryManager/part1.h
+
+/Volumes/128/Y2/5013A Architectures And Operating Systems/CW2/Thread-SafeMemoryManager/part1.h
+stdio.h
+-
+stddef.h
+-
+
+/Volumes/128/Y2/5013A Architectures And Operating Systems/CW2/Thread-SafeMemoryManager/part1_test.c
+part1.h
+/Volumes/128/Y2/5013A Architectures And Operating Systems/CW2/Thread-SafeMemoryManager/part1.h
+
+/Volumes/128/Y2/5013A Architectures And Operating Systems/CW2/Thread-SafeMemoryManager/part2.c
+part2.h
+/Volumes/128/Y2/5013A Architectures And Operating Systems/CW2/Thread-SafeMemoryManager/part2.h
+
+/Volumes/128/Y2/5013A Architectures And Operating Systems/CW2/Thread-SafeMemoryManager/part2.h
+stdio.h
+-
+stddef.h
+-
+
+/Volumes/128/Y2/5013A Architectures And Operating Systems/CW2/Thread-SafeMemoryManager/part2_test.c
+part2.h
+/Volumes/128/Y2/5013A Architectures And Operating Systems/CW2/Thread-SafeMemoryManager/part2.h
+
+/Volumes/128/Y2/5013A Architectures And Operating Systems/CW2/Thread-SafeMemoryManager/part3.c
+part3.h
+/Volumes/128/Y2/5013A Architectures And Operating Systems/CW2/Thread-SafeMemoryManager/part3.h
+
+/Volumes/128/Y2/5013A Architectures And Operating Systems/CW2/Thread-SafeMemoryManager/part3.h
+stdio.h
+-
+stddef.h
+-
+pthread.h
+-
+string.h
+-
+unistd.h
+-
+
+/Volumes/128/Y2/5013A Architectures And Operating Systems/CW2/Thread-SafeMemoryManager/part3_test.c
+part3.h
+/Volumes/128/Y2/5013A Architectures And Operating Systems/CW2/Thread-SafeMemoryManager/part3.h
+
